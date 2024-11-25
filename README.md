@@ -1,5 +1,16 @@
+<!-- name -->
+<p align="center">
+<h1 align="center">Hi 👋, I'm Sorwar Talukder</h1>
 ## Hi there 👋 
 ## I am Avik Sarker
+</p>
+
+
+<!-- name -->
+<h1 align="center">Hi 👋, I'm Sorwar Talukder</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=100&lines=Back-End+Developer;Software+Engineer;Software+Developer;Full+Stack+Developer;Always+learning+new+things"/>
+</p>
 
 <!--
 **Avik2293/Avik2293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
