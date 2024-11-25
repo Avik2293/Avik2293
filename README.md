@@ -6,7 +6,7 @@
 
 <h1 align="center">Lets, Read a Quote...</h1>
 <p align="center">
-(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Your Quote?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </p>
 
 <!--
