@@ -75,12 +75,12 @@ Nowadays, I am working on building up my knowledge & skills in programming by do
 I am freedom loving person. I enjoy work. The only difference between me and those who upgrade the world is skill. I will work to improve myself. I dream of giving something new to the world one day.
 <br />
 <br />
-📧 aviksarker229@gmail.com <br />
+📧 aviksarker22@gmail.com <br />
 ⌨️ 𝘛𝘦𝘹𝘵 / 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: +880 1758727366 <br />
 📞 𝑪𝒂𝒍𝒍 | 𝒎𝒐𝒃𝒊𝒍𝒆: +880 1758727366 <br />
 <a href="https://avik-sarker-portfolio.netlify.app/">Developer Portfolio</a> 
 <br />
-<a href="https://drive.google.com/file/d/1_P_F6B3k6TGiXZJTBDMcrGuK4G_xPKko/view?usp=share_link">Download developer resume</a>
+<a href="https://drive.google.com/file/d/1eDFZl-p3r4MZHYrEV_NyQMhQu0bkTjef/view?usp=sharing">Download developer resume</a>
 </p>
 </p>
 
