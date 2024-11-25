@@ -7,8 +7,8 @@
 <h1 align="center">Lets, Read a Quote...</h1>
 <p align="center">
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Your Quote?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote)
 </p>
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote)
 
 <!--
 **Avik2293/Avik2293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
