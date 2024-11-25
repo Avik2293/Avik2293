@@ -1,7 +1,12 @@
 <!-- name -->
 <h1 align="center">Hi 👋, I'm Avik Sarker</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=35&lines=Software+Engineer;Front-End+Developer;React+Developer;React+Native+Developer;Always+learning+new+things"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=30&lines=Software+Engineer;Front-End+Developer;React+Developer;React+Native+Developer;Always+learning+new+things"/>
+</p>
+
+<h1 align="center">Lets, Read a Quote...</h1>
+<p align="center">
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </p>
 
 <!--
@@ -56,7 +61,7 @@ Here are some ideas to get you started:
 I am Experienced with JavaScript, NextJS, NodeJS, ExpressJS, Mongoose/MongoDB, Laravel, MySql, ReactJS, React Native, Redux, and TypeScript.
 <br />
 <br />
-I am a programmer and I am happy with this job. Because I like technology . The use of technology is increasing in the world. I want to make technology easy to reach people.
+I am a programmer and I am happy with this job. Because I like technology. The use of technology is increasing in the world. I want to make technology easy to reach people.
 <br />
 <br />
 I am expert with React.js, React Native, JavaScript, Next Js, Express.js, MongoDB, Laravel, MySql, CSS, Bootstrap, React Bootstrap, Tailwind, DaisyUI, Chakra Ui, HTML, Firebase and I used many tools (Github, Netlify, Canva, Figma, React Icons, React Router, React Toast, React Query, React Photo View, React Hook Form, JWT, Context API etc).
@@ -84,7 +89,7 @@ I am a freedom-loving person. I enjoy work. The only difference between me and t
 <br />
 <a href="https://avik-sarker-portfolio.netlify.app/">Developer Portfolio</a> 
 <br />
-<a href="https://drive.google.com/file/d/1eDFZl-p3r4MZHYrEV_NyQMhQu0bkTjef/view?usp=sharing">Download developer resume</a>
+<a href="https://drive.google.com/file/d/1eDFZl-p3r4MZHYrEV_NyQMhQu0bkTjef/view?usp=sharing">Download Developer Resume</a>
 </p>
 </p>
 
