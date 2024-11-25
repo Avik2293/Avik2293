@@ -8,7 +8,6 @@
 <p align="center">
    <img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random" alt="Random quote" />
 </p>
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random)
 
 <!--
 **Avik2293/Avik2293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
