@@ -7,8 +7,8 @@
 <h1 align="center">Lets, Read a Quote...</h1>
 <p align="center">
    <img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random" alt="Random quote" />
-   <img align="center" src="[https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random](https://quotes-github-readme.vercel.app/api?quote=Your Quote?type=horizontal&theme=dark)" alt="Random quote" />
-  [![Readme Quotes]()](https://github.com/piyushsuthar/github-readme-quotes)
+   <img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random" alt="Random quote" />
+<!--   [![Readme Quotes]()](https://github.com/piyushsuthar/github-readme-quotes) -->
 </p>
   ![Quote](https://github-readme-quotes-bay.vercel.app/quote)
   [![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=monokai)](https://github.com/Vishal-beep136/github-readme-quotify)
