@@ -81,7 +81,7 @@ I am freedom loving person. I enjoy work. The only difference between me and tho
 <br />
 📧 aviksarker22@gmail.com <br />
 ⌨️ 𝘛𝘦𝘹𝘵 / 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: +880 1758727366 <br />
-📞 𝑪𝒂𝒍𝒍 | 𝒎𝒐𝒃𝒊𝒍𝒆: +880 1758727366 <br />
+📞 Call | Mobile: +880 1758727366 <br />
 <a href="https://www.linkedin.com/in/avik-sarker-95b012187/">Linkedin Profile</a> 
 <br />
 <a href="https://avik-sarker-portfolio.netlify.app/">Developer Portfolio</a> 
