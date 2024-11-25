@@ -1,7 +1,7 @@
 <!-- name -->
 <h1 align="center">Hi 👋, I'm Avik Sarker</h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer;Front-End+Developer;React+Developer;React+Native+Developer;Always+learning+new+things"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=35&lines=Software+Engineer;Front-End+Developer;React+Developer;React+Native+Developer;Always+learning+new+things"/>
 </p>
 
 <!--
