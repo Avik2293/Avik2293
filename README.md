@@ -11,7 +11,7 @@
   ![Quote](https://github-readme-quotes-bay.vercel.app/quote)
   [![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=monokai)](https://github.com/Vishal-beep136/github-readme-quotify)
   ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random)
-  <img align="center" src="![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random)" alt="avik2293" />
+  <img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random" alt="avik2293" />
 
 <!--
 **Avik2293/Avik2293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
