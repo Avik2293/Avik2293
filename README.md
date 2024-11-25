@@ -9,6 +9,7 @@
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Your Quote?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 </p>
   ![Quote](https://github-readme-quotes-bay.vercel.app/quote)
+  [![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=monokai)](https://github.com/Vishal-beep136/github-readme-quotify)
 
 <!--
 **Avik2293/Avik2293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
