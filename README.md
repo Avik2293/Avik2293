@@ -1,5 +1,5 @@
 <!-- name -->
-<h1 align="center">>Hi 👋, I'm Avik Sarker</h1>
+<h1 align="center">Hi 👋, I'm Avik Sarker</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=pink&size=25&center=true&vCenter=true&width=600&height=100&lines=Back-End+Developer;Software+Engineer;Software+Developer;Full+Stack+Developer;Always+learning+new+things"/>
 </p>
@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 <img src="images/icons/mongoDB.png" alt="Mongo DB logo" width="70" height="70" style=" border-radius: 50%;"/>
 </p>
 <p align='center'>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avik2293&show_icons=true&locale=en&layout=compact" alt="avik2293" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avik2293&theme=tokyonight" alt="avik2293" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avik2293&show_icons=true&locale=en&layout=compact" alt="avik2293" />
 </p>
 <br/>
 
