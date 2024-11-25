@@ -6,12 +6,14 @@
 
 <h1 align="center">Lets, Read a Quote...</h1>
 <p align="center">
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Your Quote?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+   <img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random" alt="Random quote" />
+   <img align="center" src="[https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random](https://quotes-github-readme.vercel.app/api?quote=Your Quote?type=horizontal&theme=dark)" alt="Random quote" />
+  [![Readme Quotes]()](https://github.com/piyushsuthar/github-readme-quotes)
 </p>
   ![Quote](https://github-readme-quotes-bay.vercel.app/quote)
   [![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=monokai)](https://github.com/Vishal-beep136/github-readme-quotify)
   ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random)
-  <img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random" alt="avik2293" />
+  <img align="center" src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&quoteType=random" alt="Random quote" />
 
 <!--
 **Avik2293/Avik2293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
