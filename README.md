@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <!-- skills -->
 
 ## :computer: Technologies that I know
-
 <br>
 <p align="center">
 <img src="images/icons/react.webp" alt="ReactJS logo" width="70" height="70" style=" border-radius: 50%;"/>
@@ -43,7 +42,6 @@ Here are some ideas to get you started:
 <br/>
 
 ## :chart_with_upwards_trend: Current Stats
-
 <br />
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=avik2293&theme=tokyonight" />
@@ -55,13 +53,13 @@ Here are some ideas to get you started:
 <h1> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me</h1>
 <p>Software Engineer || Front-End Developer || React Developer || React Native Developer
 <br />
-I am Experienced with JavaScript, NextJS, NodeJS, ExpressJS, Mongoose/MongoDB, Laravel, MySql, ReactJS, React Native, Redux, TypeScript.
+I am Experienced with JavaScript, NextJS, NodeJS, ExpressJS, Mongoose/MongoDB, Laravel, MySql, ReactJS, React Native, Redux, and TypeScript.
 <br />
 <br />
 I am a programmer and I am happy with this job. Because I like technology . The use of technology is increasing in the world. I want to make technology easy to reach people.
 <br />
 <br />
-I am expert with React.js, React Native, JavaScript, Next Js, Express.js , MongoDB, Laravel, MySql, CSS, Bootstrap, React Bootstrap, Tailwind, DaisyUI, Chakra Ui, HTML, Firebase and I used many tools (Github, Netlify, Canva, Figma, React Icons, React Router, React Toast, React Query, React Photo View, React Hook Form,JWT, Context API etc).
+I am expert with React.js, React Native, JavaScript, Next Js, Express.js, MongoDB, Laravel, MySql, CSS, Bootstrap, React Bootstrap, Tailwind, DaisyUI, Chakra Ui, HTML, Firebase and I used many tools (Github, Netlify, Canva, Figma, React Icons, React Router, React Toast, React Query, React Photo View, React Hook Form, JWT, Context API etc).
 <br />
 <br />
 I have earned a bachelor’s degree in Electrical and Electronics Engineering. I also did my web development course from Programming Hero. My course studies centred on web design, development, database management, coding, and the programming used to create websites.
@@ -76,12 +74,12 @@ I am quick at learning new technologies and can follow instructions and work wel
 Nowadays, I am working on building up my knowledge & skills in programming by doing course CPS Academy.
 <br />
 <br />
-I am freedom loving person. I enjoy work. The only difference between me and those who upgrade the world is skill. I will work to improve myself. I dream of giving something new to the world one day.
+I am a freedom-loving person. I enjoy work. The only difference between me and those who upgrade the world is skill. I will work to improve myself. I dream of giving something new to the world one day.
 <br />
 <br />
 📧 aviksarker22@gmail.com <br />
 ⌨️ 𝘛𝘦𝘹𝘵 / 𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱: +880 1758727366 <br />
-📞 Call | Mobile: +880 1758727366 <br />
+📞 Call || Mobile: +880 1758727366 <br />
 <a href="https://www.linkedin.com/in/avik-sarker-95b012187/">Linkedin Profile</a> 
 <br />
 <a href="https://avik-sarker-portfolio.netlify.app/">Developer Portfolio</a> 
