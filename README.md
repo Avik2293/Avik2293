@@ -49,10 +49,11 @@ Here are some ideas to get you started:
 ## :chart_with_upwards_trend: Current Stats
 <br />
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avik2293&theme=tokyonight" />
-<!--   <br/> -->
-  <img src='https://github-readme-stats.vercel.app/api?username=avik2293&show_icons=true&theme=tokyonight' />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avik2293&theme=tokyonight" alt="GitHub Streak Stats" />
+   <!--   <br/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=avik2293&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
 
 <!-- about -->
 <h1> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me</h1>
