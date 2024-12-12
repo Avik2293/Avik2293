@@ -56,10 +56,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=avik2293&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=avik2293&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avik2293&show_icons=true&theme=tokyonight)
-
 
 
 <!-- about -->
