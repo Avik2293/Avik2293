@@ -75,12 +75,12 @@ I have earned a bachelor’s degree in Electrical and Electronics Engineering. I
 <br />
 <br />
 I am working now in Shineygleam Softwere as a Junior Softwere Engineer. I have approximately 2 years of experience with this company. 
-My job responsibility is to create the website front-end in React and integrate it with Laravel and MySql databases. 
+My job is to create the website front-end in React and integrate it with Laravel and MySql databases. 
 I also created some apps on React Native with my senior's help in some app development projects.
-I am quick at learning new technologies, follow instructions, and work well with a team. 
+I quickly learn new technologies, follow instructions, and work well with a team. 
 <br />
 <br />
-Nowadays, i am working on building up my knowledge & skills in programming by doing course CPS Academy.
+Nowadays, I am working on building up my knowledge & skills in programming by doing course CPS Academy.
 <br />
 <br />
 I am a freedom-loving person. I enjoy work. The only difference between me and those who upgrade the world is skill. I will work to improve myself. I dream of giving something new to the world one day.
